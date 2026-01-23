@@ -16,10 +16,10 @@
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "remark": "14.0.2",
+    "remark": "15.0.0",
     "remark-html": "15.0.1",
     "styled-components": "^5.3.3",
-    "tinacms": "^0.68.4"
+    "tinacms": "^0.69.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
